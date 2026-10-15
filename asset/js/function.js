@@ -738,6 +738,14 @@ function portfolioApp() {
         certificates: [
             {
                 id: 1,
+                badge: 'Cloud & DevOps',
+                title: 'AWS EKS Kubernetes-Masterclass | DevOps, Microservices',
+                description: 'Kursus praktik membangun dan mengelola cluster Kubernetes di AWS EKS, mulai dari arsitektur Kubernetes, pembuatan cluster dan node group dengan eksctl, pengelolaan resource dengan kubectl, hingga IAM OIDC provider, VPC, dan konsep deployment aplikasi microservices.',
+                image: 'asset/sertifikat - udemy - AWS EKS Kubernetes-Masterclass | DevOps_Microservices.jpg',
+                url: 'https://drive.google.com/file/d/1ugAs5VeTkM9E1TVBF7JYgf1Y5Pg726hd/view?usp=sharing'
+            },
+            {
+                id: 2,
                 badge: 'AWS Training & Certification',
                 title: 'AWS Cloud Practitioner Essentials',
                 description: 'Sertifikat penyelesaian pelatihan AWS Cloud Practitioner Essentials yang diberikan kepada Piyo Aswandi pada tanggal 27 September 2026.',
@@ -745,7 +753,7 @@ function portfolioApp() {
                 url: 'https://drive.google.com/file/d/1wC9pfjdwTZwFZmQeG3aRX5TcSzqZpk0y/view?usp=sharing'
             },
             {
-                id: 2,
+                id: 3,
                 badge: 'Work Experience Certificate',
                 title: 'Certificate of Employment',
                 description:
@@ -754,7 +762,7 @@ function portfolioApp() {
                 url: 'https://drive.google.com/file/d/1khA_G4-ErLRl1b5ax1PRQ1lct124ZGEN/view?usp=drive_link'
             },
             {
-                id: 3,
+                id: 4,
                 badge: 'BBPVP Certificate',
                 title: 'Junior Web Developer Training',
                 description:
@@ -763,7 +771,7 @@ function portfolioApp() {
                 url: 'https://drive.google.com/file/d/1GZimXp7tX_L3cFrOWFL_xvTXHrmvSgYK/view?usp=drive_link'
             },
             {
-                id: 4,
+                id: 5,
                 badge: 'Competency Certificate',
                 title: 'Junior Web Developer Competency Certificate',
                 description:
@@ -772,7 +780,7 @@ function portfolioApp() {
                 url: 'https://drive.google.com/file/d/1dew8desS_XVJNzPGI2g3vObVg_2NWcqj/view?usp=drive_link'
             },
             {
-                id: 5,
+                id: 6,
                 badge: 'Seminar Certificate',
                 title: 'Metaverse: The Future of Virtual Technology',
                 description:
@@ -781,7 +789,7 @@ function portfolioApp() {
                 url: 'https://drive.google.com/file/d/1ffliZrWs3xICKtxLZWJWmMibve0MZJR3/view?usp=drive_link'
             }, 
             {
-                id: 6,
+                id: 7,
                 badge: 'PPKMB Certificate - Universitas Pelita Bangsa',
                 title: 'Campus Life Orientation Program',
                 description: 'Certificate of participation in the Campus Life Orientation Program (PPKMB) at Universitas Pelita Bangsa, covering the introduction to the academic environment, campus culture, and student life.',
